@@ -35,11 +35,11 @@
   {
     "title": "КАК ИЗМЕНИТЬ ДАЛЬНОСТЬ ТРАВЫ И ОБЪЕКТОВ?",
     "description": "1. Открываем редактор ini-файлов через МО2, нажав на значок пазла сверху.\n2. Открываем вкладку с FalloutCustom.ini\n3. Листаем до [Grass] и [TerrainManager] и меняем значения на нужные вам.",
-    "image": null
+    "image": "https://newvegasextendededition.github.io/assets/images/help/changeGrassObjects.png"
   },
   {
     "title": "КАК ИСПРАВИТЬ КОСУЮ МУШКУ ОРУЖИЯ?",
-    "description": "1. Сообщите мне об оружии с кривой мушкой в Discord.\n2. Для самостоятельного исправления войдите в прицел, нажмите правый Shift и, зажав левый Shift, ведите мушку до перекрестия на экране, после чего нажмите Enter.\nТакже, если просто водить мышкой без зажатого левого Shift, можно менять угол мушки.",
+    "description": "1. Сообщите мне об оружии с кривой мушкой в [link=https://discord.com/invite/cRqSMb34eU]Discord[link].\n2. Для самостоятельного исправления войдите в прицел, нажмите правый Shift и, зажав левый Shift, ведите мушку до перекрестия на экране, после чего нажмите Enter.\nТакже, если просто водить мышкой без зажатого левого Shift, можно менять угол мушки.",
     "image": null
   },
   {
@@ -50,7 +50,7 @@
   {
     "title": "КАК ОТКЛЮЧИТЬ ПЛАТНЫЙ ФАСТ ТРЕВЕЛ?",
     "description": "Отключите мод Fast Travel Costs в МО2.\nТакже при желании можете отключить и другие усложнения.",
-    "image": null
+    "image": "https://newvegasextendededition.github.io/assets/images/help/hardcoreSettings.png"
   },
   {
     "title": "КАК ОТКРЫТЬ МЕНЮ КРАТКОЙ СВОДКИ?",
