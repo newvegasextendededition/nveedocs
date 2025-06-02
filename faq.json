@@ -12,27 +12,30 @@
   {
     "title": "КАК ВКЛЮЧИТЬ ПОЛНОЭКРАННЫЙ РЕЖИМ/ИЗМЕНИТЬ РАЗРЕШЕНИЕ?",
     "description": "Отключите OneTweak в NVSE плагинах и измените значение \"BFull Screen\" на 1 в falloutcustom.ini через иконку пазлов в мод менеджере.",
-    "image": null
+    "image": null,
+    "video": "https://newvegasextendededition.github.io/assets/videos/fullscreenFAQ.mp4"
   },
   {
     "title": "КАК ВОССТАНОВИТЬ ПОРЯДОК ЗАГРУЗКИ?",
     "description": "Нажимаем на жёлтую стрелочку слева и выбираем \"Восстановить порядок\", потом повторяем то же самое с правой жёлтой стрелочкой.",
-    "image": null
+    "image": null,
+    "video": "https://newvegasextendededition.github.io/assets/videos/restoreBackup.mp4"
   },
   {
     "title": "КАК ЗАПУСТИТЬ ЛАУНЧЕР ИГРЫ?",
     "description": "Выберите его в выпадающем списке слева от кнопки запустить, после этого запускайте.",
-    "image": null
+    "image": null,
+    "video": "https://newvegasextendededition.github.io/assets/videos/falloutLauncher.mp4"
   },
   {
     "title": "КАК ИЗМЕНИТЬ FOV?",
     "description": "1. Открываем редактор ini-файлов через МО2, нажав на значок пазла сверху.\n2. Открываем вкладку с FalloutCustom.ini\n3. Листаем до [Display] и меняем значения на нужные вам.",
-    "image": null
+    "image": "https://newvegasextendededition.github.io/assets/images/help/changeFOV.png"
   },
   {
     "title": "КАК ИЗМЕНИТЬ ДАЛЬНОСТЬ ТРАВЫ И ОБЪЕКТОВ?",
     "description": "1. Открываем редактор ini-файлов через МО2, нажав на значок пазла сверху.\n2. Открываем вкладку с FalloutCustom.ini\n3. Листаем до [Grass] и [TerrainManager] и меняем значения на нужные вам.",
-    "image": "https://newvegasextendededition.github.io/assets/images/help/changeFOV.png"
+    "image": null
   },
   {
     "title": "КАК ИСПРАВИТЬ КОСУЮ МУШКУ ОРУЖИЯ?",
