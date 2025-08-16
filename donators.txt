@@ -1,84 +1,110 @@
-Diverclaim - 10000 rub
+Paneah Avereh - 14985 rub
+Diverclaim - 10750 rub
+8027090 - 8982 rub
 alexanros pavo - 7000 rub
 boossread - 6000 rub
+Gazbax - 6000 rub
 Вергилий - 5000 rub
 Отченаш - 4000 rub
 Morty - 4000 rub
+rus_mage - 3188 rub
 Sisony - 3100 rub
 Иван Воробьёв - 3000 rub
+Zurg - 2997 rub
+Николай Гончаров - 2482 rub
+nightlovely - 2388 rub
 Darlak_spayS - 2000 rub
-rus_mage - 2000 rub
 cmplman - 2000 rub
+Максим Пухов - 1791 rub
+Виктор Гусельман - 1776 rub
 kantros - 1600 rub
 AzimutLans - 1500 rub
 esumrane - 1500 rub
+ms_svk. - 1332 rub
+Серёжа Максимчук - 1329 rub
+Никита Апполонов - 1300 rub
 Pavel Smirnov - 1201 rub
-rm -rf /* - 1 200 rub
+rm -rf /* - 1200 rub
 Pavel Zavgorodniy - 1200 rub
+Тимур Мехтибеков - 1188 rub
 SpaceIX - 1111 rub
 RAGExSHOOTER - 1111 rub
+Александр Шутер - 1111 rub
 Greylem - 1000 rub
 SkachokRosta - 1000 rub
 Бушлак Карибыч - 1000 rub
 RuyN21 - 1000 rub
-gazbax - 1000 rub
 Mihail Belobrov - 1000 rub
-Всеволод Д.- 1000 rub
+Всеволод Д. - 1000 rub
 vasarus1 - 1000 rub
 Борис Юринов - 1000 rub
 Paneah Aver'eh - 1000 rub
-Zurg - 1000 rub
+Анатолий Кандиков - 1000 rub
+Андрей Макухин - 1000 rub
+Coldworldd - 998 rub
 Crankz - 920 rub
+SSIIDD - 895 rub
 Артём Демидов - 800 rub
-Николай Гончаров - 800 rub
 Влад mvaarkh - 800 rub
+Денис Бармотин - 800 rub
+Влад - 800 rub
+Михаил Сластной - 632 rub
 Dencher - 615 rub
 Oleks_Adm - 610 rub
 Sexy - 600 rub
 ponuryj - 600 rub
 Виктор Бабина - 600 rub
-Виктор Гусельман - 600 rub
 mapych - 600 rub
 Haron - 600 rub
 Максим Сказов - 600 rub
+Булат Бадретдинов - 600 rub
 S[s]up - 555 rub
 Kirill Sivolapov - 500 rub
 Vincent_Hatte - 500 rub
-SSIIDD - 500 rub
 ms_svk - 500 rub
 Владимир Малахов - 500 rub
 Дима Сотов - 500 rub
 Булат Хасаншин - 500 rub
-8027090 - 500 rub
 Вадим Климчук - 500 rub
+Moonwave - 500 rub
+Никита Чукавин - 500 rub
 Сережа Максимчук - 450 rub
+Павел Мельник - 447 rub
 I fuck the dead - 421 rub
+Georgy Egorov - 421 rub
 Жека Панцерхряк - 400 rub
-Булат Бадретдинов - 400 rub
-Денис Бармотин - 400 rub
 Ultra Realiti - 400 rub
+Георгий Тарасов - 400 rub
 Maggot - 397 rub
 Раян - 370 rub
 Densel - 350 rub
 alter - 333 rub
+RaDee Channel - 319 rub
 Раст - 310 rub
 Floor - 300 rub
 Серёжа - 300 rub
 gangsta - 300 rub
 Dzengrave - 300 rub
+Roberto De Bastardo - 300 rub
+Данил Максимов - 300 rub
+Vertyshka - 297 rub
+Егор Архипов - 297 rub
+эйжн пуси - 256 rub
 Meroit - 250 rub
 Руся Чуркабуз - 250 rub
 compton187 - 250 rub
 Artem Deev - 250 rub
+ivan.oblomov - 250 rub
 yogor - 228 rub
 hYss - 228 rub
 Kesareff - 200 rub
 Dark-ru - 200 rub
 Евгений Шамплетов - 200 rub
 Mr Сourier - 200 rub
-Георгий Тарасов - 200 rub
 VinGod - 200 rub
 kidsolo - 200 rub
+DmitryBriz - 199 rub
+Евгений Иванов - 198 rub
 Nightmare - 180 rub
 vexyanskiy - 160 rub
 GamePolice - 150 rub
@@ -86,10 +112,11 @@ Cursed Gamer - 150 rub
 Anonymous - 150 rub
 Eteril - 150 rub
 Данил Пученков - 150 rub
-Денис Земко - 150 rub
 Bloodletting Beast - 150 rub
+Dekae_ - 147 rub
 B.O.M.J. - 132 rub
 kat5men - 123 rub
+Денис Земко - 100 rub
 dnx700 - 100 rub
 BigBuilder - 100 rub
 SmoLife - 100 rub
@@ -102,7 +129,6 @@ Ralphboi - 100 rub
 Fanat - 100 rub
 Kotuza - 100 rub
 MoRoZ - 100 rub
-Денис Земко - 100 rub
 Korona - 100 rub
 дядя багдан - 100 rub
 Бойкэт - 100 rub
@@ -110,11 +136,12 @@ Atria Black - 100 rub
 Yura - 100 rub
 timawar005 - 100 rub
 Teo T - 100 rub
-Евгений Иванов - 100 rub
-Vertyshka - 100 rub
 Рома Рыкин - 100 rub
 Александр Марковкин - 100 rub
-Тимур Мехтибеков - 100 rub
+Koronich - 100 rub
+Дима Чернюк - 100 rub
+ChameleonMan - 100 rub
+Дитрих - 99 rub
 Lize's future husband - 75 rub
 theonlydeckard - 70 rub
 Draglord - 69 rub
@@ -126,3 +153,5 @@ Likan - 50 rub
 Terrorwave - 50 rub
 graylord - 50 rub
 Shockrain - 50 rub
+Lamani - 49 rub
+Nickgrin - 49 rub
