@@ -1,4 +1,13 @@
 [
+	{
+        "title": "21.08.25.1",
+        "description": [
+            "Мелкие правки лаунчера/апдейтера."
+        ],
+        "files": {
+            "https://github.com/newvegasextendededition/nveedocs/raw/refs/heads/main/updates/21.08.25.1/21.08.25.1.7z": "10409518925514783618"
+        }
+	},
     {
         "title": "21.08.25",
         "description": [
