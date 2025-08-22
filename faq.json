@@ -5,37 +5,10 @@
     "image": null
   },
   {
-    "title": "КАК ВКЛЮЧИТЬ ОКОННЫЙ РЕЖИМ?",
-    "description": "Отключите OneTweak в NVSE плагинах.",
-    "image": null
-  },
-  {
-    "title": "КАК ВКЛЮЧИТЬ ПОЛНОЭКРАННЫЙ РЕЖИМ/ИЗМЕНИТЬ РАЗРЕШЕНИЕ?",
-    "description": "Отключите OneTweak в NVSE плагинах и измените значение \"BFull Screen\" на 1 в falloutcustom.ini через иконку пазлов в мод менеджере.",
-    "image": null,
-    "video": "https://raw.githubusercontent.com/newvegasextendededition/newvegasextendededition.github.io/refs/heads/main/assets/videos/fullscreenFAQ.mp4"
-  },
-  {
     "title": "КАК ВОССТАНОВИТЬ ПОРЯДОК ЗАГРУЗКИ?",
     "description": "Нажимаем на жёлтую стрелочку слева и выбираем \"Восстановить порядок\", потом повторяем то же самое с правой жёлтой стрелочкой.",
     "image": null,
     "video": "https://raw.githubusercontent.com/newvegasextendededition/newvegasextendededition.github.io/refs/heads/main/assets/videos/restoreBackup.mp4"
-  },
-  {
-    "title": "КАК ЗАПУСТИТЬ ЛАУНЧЕР ИГРЫ?",
-    "description": "Выберите его в выпадающем списке слева от кнопки запустить, после этого запускайте.",
-    "image": null,
-    "video": "https://raw.githubusercontent.com/newvegasextendededition/newvegasextendededition.github.io/refs/heads/main/assets/videos/falloutLauncher.mp4"
-  },
-  {
-    "title": "КАК ИЗМЕНИТЬ FOV?",
-    "description": "1. Открываем редактор ini-файлов через МО2, нажав на значок пазла сверху.\n2. Открываем вкладку с FalloutCustom.ini\n3. Листаем до [Display] и меняем значения на нужные вам.",
-    "image": "https://raw.githubusercontent.com/newvegasextendededition/newvegasextendededition.github.io/refs/heads/main/assets/images/help/changeFOV.png"
-  },
-  {
-    "title": "КАК ИЗМЕНИТЬ ДАЛЬНОСТЬ ТРАВЫ И ОБЪЕКТОВ?",
-    "description": "1. Открываем редактор ini-файлов через МО2, нажав на значок пазла сверху.\n2. Открываем вкладку с FalloutCustom.ini\n3. Листаем до [Grass] и [TerrainManager] и меняем значения на нужные вам.",
-    "image": "https://raw.githubusercontent.com/newvegasextendededition/newvegasextendededition.github.io/refs/heads/main/assets/images/help/changeGrassObjects.png"
   },
   {
     "title": "КАК ИСПРАВИТЬ КОСУЮ МУШКУ ОРУЖИЯ?",
@@ -43,23 +16,8 @@
     "image": null
   },
   {
-    "title": "КАК ОТКЛЮЧИТЬ ВЛИЯНИЕ ХАРИЗМЫ НА ДИАЛОГИ?",
-    "description": "В мод-менеджере в левой панели отключите мод \"Charisma Tweaks (NVSE)\".",
-    "image": null
-  },
-  {
-    "title": "КАК ОТКЛЮЧИТЬ ПЛАТНЫЙ ФАСТ ТРЕВЕЛ?",
-    "description": "Отключите мод Fast Travel Costs в МО2.\nТакже при желании можете отключить и другие усложнения.",
-    "image": "https://raw.githubusercontent.com/newvegasextendededition/newvegasextendededition.github.io/refs/heads/main/assets/images/help/hardcoreSettings.png"
-  },
-  {
     "title": "КАК ОТКРЫТЬ МЕНЮ КРАТКОЙ СВОДКИ?",
     "description": "Нажать F8 во время игры.",
-    "image": null
-  },
-  {
-    "title": "КАК ПОЛУЧАТЬ ПЕРК КАЖДЫЙ УРОВЕНЬ?",
-    "description": "Не советую этого делать, ввиду баланса.\nВ мод-менеджере нажмите на кнопку \"Данные (Data)\" правее от плагинов и откройте папку \"config\", откройте файл \"Jsawyer Ultimate.ini\" и измените значение \"iLevelPerkInterval\" с 2 на 1.",
     "image": null
   },
   {
@@ -68,28 +26,8 @@
     "image": null
   },
   {
-    "title": "КАК УБРАТЬ ОГРАНИЧЕНИЕ УРОВНЯ?",
-    "description": "Не советую этого делать, достичь максимального уровня и так не легко.\nВ мод-менеджере нажмите на кнопку \"Данные (Data)\" правее от плагинов и откройте папку \"config\", откройте файл \"Jsawyer Ultimate.ini\" и измените значение \"iLevelCap\" с 35 на желаемое.",
-    "image": null
-  },
-  {
-    "title": "КАК УБРАТЬ СМЕНУ ТИПА БОЕПРИПАСОВ ПРИ ДВОЙНОМ НАЖАТИИ НА КНОПКУ ПЕРЕЗАРЯДКИ?",
-    "description": "Включить \"Смена патронов двойным нажатием\" в разделе \"НАСТРОЙКИ ТВИКОВ\".",
-    "image": null
-  },
-  {
-    "title": "КАК УВЕЛИЧИТЬ КОЛ-ВО ПОЛУЧАЕМОГО ОПЫТА?",
-    "description": "В мод-менеджере нажмите на кнопку \"Данные (Data)\" правее от плагинов и откройте папку \"config\", откройте файл \"Jsawyer Ultimate.ini\" и измените значение \"bLowerXPRewards\" с 1 на 0.",
-    "image": null
-  },
-  {
-    "title": "КАК УВЕЛИЧИТЬ ПЕРЕНОСИМЫЙ ВЕС?",
-    "description": "В мод-менеджере нажмите на кнопку \"Данные (Data)\" правее от плагинов и откройте папку \"config\", откройте файл \"Jsawyer Ultimate.ini\" и измените значение \"fCarryWeightBase\" (переносимый вес без учета силы) на желаемое.",
-    "image": null
-  },
-  {
-    "title": "ЧТО ТАКОЕ С/В И СТБ?",
-    "description": "Стоимость за вес. Например предмет стоит 20, а весит 10. С/В будет низкое - 2. А другой предмет стоит 100, а весит 2 и соответственно С/В выше - 50. Чем выше С/В тем лучше, так как предмет с этим высоким показателем будет весить мало, а стоить много. СТБ - состояние брони.",
+    "title": "ЧТО ТАКОЕ С/В, КРТУ, КРТ, ЗАВ?",
+    "description": "C/В - стоимость относительно веса. КРТУ - урон вместе с крит. уроном. КРТ - шанс крита. ЗАВ - шанс получить зависимость.",
     "image": null
   }
 ]
