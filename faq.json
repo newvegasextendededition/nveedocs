@@ -11,6 +11,11 @@
     "video": "https://raw.githubusercontent.com/newvegasextendededition/newvegasextendededition.github.io/refs/heads/main/assets/videos/restoreBackup.mp4"
   },
   {
+    "title": "МОИ МОДЫ ОТКЛЮЧАЮТСЯ, ЧТО ДЕЛАТЬ?",
+    "description": "Сборка автоматически восстанавливает порядок при каждом запуске, чтобы отключить это - зайдите в настройки сборки в лаунчере и выберите второй пункт.",
+    "image": null,
+  },
+  {
     "title": "КАК ИСПРАВИТЬ КОСУЮ МУШКУ ОРУЖИЯ?",
     "description": "1. Сообщите мне об оружии с кривой мушкой в [link=https://discord.com/invite/cRqSMb34eU]Discord[link].\n2. Для самостоятельного исправления войдите в прицел, нажмите правый Shift и, зажав левый Shift, ведите мушку до перекрестия на экране, после чего нажмите Enter.\nТакже, если просто водить мышкой без зажатого левого Shift, можно менять угол мушки.",
     "image": null
