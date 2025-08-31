@@ -1,4 +1,45 @@
 [
+	{
+		"title": "29.08.25",
+		"description": [
+			"Включил NVAO - Melee.",
+			"Добавил MGs Neat Clutter.",
+			"Добавил Office Doorverhaul.",
+			"Добавил Ru Locale Fixes.",
+			"Добавил автоматическое добавление папки игры и экзешников в список исключений Windows Defender'a.",
+			"Добавил автоматическое отключение ASLR.",
+			"Добавил возможность ввести имя персонажа на русском языке.",
+			"Изменил множители мода Metro Difficulty Style Damage.",
+			"Исправил ошибку в Bypass Minigames.",
+			"Исправил перевод текстуры в JIP CCC.",
+			"Исправил ошибки перевода.",
+			"Исправления для Ultrawide мониторов.",
+			"Обновил Mojave Scenery Overhaul.",
+			"Обновил NVTF.",
+			"Очкоs no more.",
+			"Перевел надпись ЭД-Э в Примме.",
+			"Подправил перевод Modern Minimap.",
+			"Удалил Crafting and Repair Animations.",
+			"Удалил Real Time Reflections.",
+			"Удалил ретекстур метал. брони."
+		],
+		"files": {
+			"https://github.com/newvegasextendededition/nveedocs/raw/refs/heads/main/updates/29.08.25/update.7z.001": "10154638698099458255",
+			"https://github.com/newvegasextendededition/nveedocs/raw/refs/heads/main/updates/29.08.25/update.7z.002": "788904803216494986",
+			"https://github.com/newvegasextendededition/nveedocs/raw/refs/heads/main/updates/29.08.25/update.7z.003": "8352218043822440884",
+			"https://github.com/newvegasextendededition/nveedocs/raw/refs/heads/main/updates/29.08.25/update.7z.004": "6841795288830372800",
+			"https://github.com/newvegasextendededition/nveedocs/raw/refs/heads/main/updates/29.08.25/update.7z.005": "1509404061884753435",
+			"https://github.com/newvegasextendededition/nveedocs/raw/refs/heads/main/updates/29.08.25/update.7z.006": "2367540224922050419",
+			"https://github.com/newvegasextendededition/nveedocs/raw/refs/heads/main/updates/29.08.25/update.7z.007": "13097367168138502355",
+			"https://github.com/newvegasextendededition/nveedocs/raw/refs/heads/main/updates/29.08.25/update.7z.008": "16111523658068947780",
+			"https://github.com/newvegasextendededition/nveedocs/raw/refs/heads/main/updates/29.08.25/update.7z.009": "3573154848489972509",
+			"https://github.com/newvegasextendededition/nveedocs/raw/refs/heads/main/updates/29.08.25/update.7z.010": "2197330290071353470",
+			"https://github.com/newvegasextendededition/nveedocs/raw/refs/heads/main/updates/29.08.25/update.7z.011": "12110005706324859273",
+			"https://github.com/newvegasextendededition/nveedocs/raw/refs/heads/main/updates/29.08.25/update.7z.012": "6082022654198811999",
+			"https://github.com/newvegasextendededition/nveedocs/raw/refs/heads/main/updates/29.08.25/update.7z.013": "3217363878295039043",
+			"https://github.com/newvegasextendededition/nveedocs/raw/refs/heads/main/updates/29.08.25/update.7z.014": "4051636956366584670"
+		}
+	},
 	{ 
 		"title": "24.08.25",
 		"description": [
