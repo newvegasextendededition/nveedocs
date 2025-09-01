@@ -1,5 +1,20 @@
 [
 	{ 
+		"title": "02.09.25",
+		"description": [
+		  "Доперевел Fast Travel Expenses.",
+		  "Исправил вылеты при переходе между локациями.",
+		  "Исправил перевод некоторых вещей.",
+		  "Обновил DXVK.",
+		  "Обновил Goodies.",
+		  "Отключил показ эффектов в Item Cards, работал некорректно.",
+		  "Перевел Enhanced Movement, исправил спам в консоль, замедление спутников."
+		], 
+		"files": {
+			"https://github.com/newvegasextendededition/nveedocs/raw/refs/heads/main/updates/02.09.25/update.7z": "6876452301684428614"
+		}
+	},
+	{ 
 		"title": "31.08.25",
 		"description": [
 			"Временно удалил kNVSE Reload Speed Syncer, пока не будут исправлены баги.",
