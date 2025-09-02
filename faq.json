@@ -1,7 +1,7 @@
 [
   {
     "title": "ВЫЛЕТАЕТ/НЕ ЗАПУСКАЕТСЯ ИГРА, ЧТО ДЕЛАТЬ?",
-    "description": "Если вылетает при старте новой игры/запуске - включать/выключать разные версии рендера в лаунчере.\nЕсли не запускается - скачать DirectX Cleaner Tool, разархивировать и запустить файл от админа, перезагрузиться. После установить заново DirectX через запуск DXSETUP.exe из папки redists в папке установщика.\n[link=https://github.com/newvegasextendededition/nveedocs/raw/refs/heads/main/directxcleaner.7z]архив[link][link=https://github.com/newvegasextendededition/nveedocs/raw/refs/heads/main/directxcleaner.7z]DirectX Cleaner Tool[link]",
+    "description": "Если вылетает при старте новой игры/запуске - включать/выключать разные версии рендера в лаунчере.\nЕсли не запускается - скачать DirectX Cleaner Tool, разархивировать и запустить файл от админа, перезагрузиться.\nПосле установить заново DirectX через запуск DXSETUP.exe из папки redists в папке установщика.\n[link=https://github.com/newvegasextendededition/nveedocs/raw/refs/heads/main/directxcleaner.7z]DirectX Cleaner Tool[link]",
     "image": null
   },
   {
