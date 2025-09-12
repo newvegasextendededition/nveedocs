@@ -1,4 +1,15 @@
 [
+	{
+		"title": "12.09.25",
+		"description": [
+			"Изменил твик bAddRGBSliders с 1 на 0 для совместимости с MAPMO.",
+			"Удалил Parallax series -- Rocks variety, вызывал баг с видимым маркером коллизии.",
+			"Удалил Reset Settings Prompt для совместимости с MAPMO."
+		],
+		"files": {
+			"https://github.com/newvegasextendededition/nveedocs/raw/refs/heads/main/updates/12.09.25/update.7z": "10382694455924526223"
+		}
+	},
 	{ 
 		"title": "08.09.25.1",
 		"description": [
