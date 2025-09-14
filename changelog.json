@@ -1,5 +1,27 @@
 [
 	{
+		"title": "14.09.25",
+		"description": [
+			"Добавил Vanilla Weapon Scale Fix.",
+			"Заменил CER на SCE.",
+			"Заменил текстуру Марии.",
+			"Изменил порядок плагинов для UPNVSE и VSMO.",
+			"Исправил автоматическую сортировку плагинов.",
+			"Исправил баг с невозможность активировать ворота на южную часть Стрипа.",
+			"Исправил перевод JIP CCC.",
+			"Исправил проблему несрабатывания ISControl.",
+			"Исправил цвет стандартной боевой брони.",
+			"Обновил Open Tents.",
+			"Обновил YUPDate.",
+			"Обновил xNVSE.",
+			"Отключил Geck Extender и Hot Reload по умолчанию.",
+			"Удалил High Resolution Male Body Textures."
+		],
+		"files": {
+			"https://github.com/newvegasextendededition/nveedocs/raw/refs/heads/main/updates/14.09.25/update.7z": "3861333631532549817"
+		}
+	},
+	{
 		"title": "12.09.25",
 		"description": [
 			"Изменил твик bAddRGBSliders с 1 на 0 для совместимости с MAPMO.",
