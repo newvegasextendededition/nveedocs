@@ -1,5 +1,45 @@
 [
 	{
+		"title": "22.09.25",
+		"description": [
+			"Включил меню твиков, в будущем будет их перевод.",
+			"Добавил FTO - Robots - ED-E 2K.",
+			"Добавил FTO - Robots - Sentry bot 2K.",
+			"Добавил MCM Extender.",
+			"Добавил NVMIM - YUPDate patch.",
+			"Заменил меш активатора DLC OWB на ванильный, у некоторых крашилось.",
+			"Заменил экзешник игры на GOG'овский, функции Steam все равно работают.",
+			"Изменил перевод JIP CCC.",
+			"Исправил баг с бесконечным свинцом.",
+			"Исправил кривую текстуру трубы.",
+			"Исправил низкую производительность в Серной Пещере.",
+			"Исправил перевод DM.",
+			"Исправил перевод Goodies.",
+			"Исправил перекрытие мушки сигнального пистолета в СБ.",
+			"Исправил сдвиг карты в Сьерра Мадре.",
+			"Мелкие твики лаунчера.",
+			"Обновил 3D Grenade Indicator.",
+			"Обновил Aim Collision Indicator.",
+			"Обновил Consumables Widget.",
+			"Обновил Drowning Visuals.",
+			"Обновил Explosion Reactions.",
+			"Обновил I Finally Caved.",
+			"Обновил Item Cards.",
+			"Обновил JohnnyGuitarNVSE.",
+			"Обновил Radiation Visuals.",
+			"Обновил Ru Locale Fixes, теперь поддерживается русский ввод для поиска из Stewie Tweaks.",
+			"Обновил Screen Blood Enhanced.",
+			"Обновил Simple Night Vision.",
+			"Обновил Sneak Vignette.",
+			"Обновил апдейтер.",
+			"Отключил 3D оптику для Сполоха.",
+			"Удалил автоматическое добавление папки сборки в исключения антивируса."
+		],
+		"files": {
+			"https://github.com/newvegasextendededition/nveedocs/raw/refs/heads/main/updates/22.09.25/update.7z": "18067614716428438260"
+		}
+	},
+	{
 		"title": "14.09.25",
 		"description": [
 			"Добавил Vanilla Weapon Scale Fix.",
