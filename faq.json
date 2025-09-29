@@ -1,7 +1,7 @@
 [
   {
     "title": "ВЫЛЕТАЕТ/НЕ ЗАПУСКАЕТСЯ ИГРА, ЧТО ДЕЛАТЬ?",
-    "description": "Если вылетает при старте новой игры/запуске - включать/выключать разные версии рендера в лаунчере.\nЕсли не запускается - скачать DirectX Cleaner Tool, разархивировать и запустить файл от админа, перезагрузиться.\nПосле установить заново DirectX через запуск DXSETUP.exe из папки redists в папке установщика.\n[link=https://github.com/newvegasextendededition/nveedocs/raw/refs/heads/main/directxcleaner.7z]DirectX Cleaner Tool[link]",
+    "description": "Если вылетает при старте новой игры/запуске - включать/выключать разные версии рендера в лаунчере.\nЕсли вылетает при загрузке в меню скачать и установить: [link=https://aka.ms/vs/17/release/vc_redist.x86.exe]Последний Visual C++ Redist[link]\nЕсли не запускается - скачать, разархивировать и запустить файл от админа, а после перезагрузиться: [link=https://github.com/newvegasextendededition/nveedocs/raw/refs/heads/main/directxcleaner.7z]DirectX Cleaner Tool[link]\nПосле установить заново DirectX через запуск DXSETUP.exe из папки redists в папке установщика.\n",
     "image": null
   },
   {
