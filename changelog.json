@@ -1,5 +1,19 @@
 [
 	{
+		"title": "21.10.25",
+		"description": [
+			"Исправил замедление компаньонов",
+			"Обновил Ru Locale Fixes",
+			"Обновил ShowOff NVSE Plugin",
+			"Обновил Weapon Based Hands Clip Distance",
+			"Поправил перевод JAM",
+			"Удалил Heat Haze, лаги и тех. проблемы"
+		],
+		"files": {
+			"https://github.com/newvegasextendededition/nveedocs/raw/refs/heads/main/updates/21.10.25/update.7z": "3895380681022410213"
+		}
+	},
+	{
 		"title": "22.09.25",
 		"description": [
 			"Включил меню твиков, в будущем будет их перевод.",
