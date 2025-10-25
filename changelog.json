@@ -1,5 +1,24 @@
 [
 	{
+		"title": "25.10.25",
+		"description": [
+			"Добавил Aim Collision Indicator в опц. моды.",
+			"Добавил Sneak Directional Indicator в опц. моды.",
+			"Исправил краш из-за Mojave Arsenal при подборе оружия быстрым использованием.",
+			"Исправил краш из-за модельки капкана.",
+			"Исправил проблему с ускорением компаньонов.",
+			"Исправил цвет кожи у администратора Гоморры.",
+			"Пожал Legacy Reborn LOD.",
+			"Удалил DXVK 2.7.1.",
+			"Удалил Fallout 3 Karma, вызывал больше вопросов чем имел нужных исправлений.",
+			"Удалил HUD Editor, несовместимость с MCM Extender.",
+			"Фиксы и твики лаунчера."
+		],
+		"files": {
+			"https://github.com/newvegasextendededition/nveedocs/raw/refs/heads/main/updates/25.10.25/update.7z": "664824979867201787"
+		}
+	},
+	{
 		"title": "21.10.25",
 		"description": [
 			"Исправил замедление компаньонов.",
