@@ -1,7 +1,7 @@
 [
   {
     "title": "ВЫЛЕТАЕТ/НЕ ЗАПУСКАЕТСЯ ИГРА, ЧТО ДЕЛАТЬ?",
-    "description": "Убедитесь, что у вас не запущены сторонние программы, которые могут конфликтовать с игрой - FPS Monitor, антивирусы, оверлеи (например AMD Adrenaline), а также софт для мышей или ноутбуков (например, Armoury Crate, Razer Synapse, Logitech G Hub). Они могут вызывать вылеты или зависания.\nЕсли вылетает при старте новой игры/запуске - включать/выключать разные версии рендера в лаунчере.\nЕсли вылетает при загрузке в меню - скачать и установить: [link=https://aka.ms/vs/17/release/vc_redist.x86.exe]Последний Visual C++ Redist[link]\nЕсли не запускается - скачать, разархивировать и запустить от админа, перезагрузиться: [link=https://github.com/newvegasextendededition/nveedocs/raw/refs/heads/main/directxcleaner.7z]DirectX Cleaner Tool[link]\nПосле установить заново DirectX через запуск DXSETUP.exe из папки redists в папке установщика.",
+    "description": "Для начала восстановить порядок загрузки (см. третий вопрос этого раздела).\nЗакрыть сторонние программы - FPS Monitor, антивирусы, оверлеи и утилиты от производителей периферии.\nЕсли вылетает при старте новой игры/запуске - включать/выключать разные версии рендера в лаунчере.\nЕсли вылетает при загрузке в меню - скачать и установить: [link=https://aka.ms/vs/17/release/vc_redist.x86.exe]Последний Visual C++ Redist[link]\nЕсли не запускается - скачать, разархивировать и запустить от админа, перезагрузиться: [link=https://github.com/newvegasextendededition/nveedocs/raw/refs/heads/main/directxcleaner.7z]DirectX Cleaner Tool[link]\nПосле установить заново DirectX через запуск DXSETUP.exe из папки redists в папке установщика.",
     "image": null
   },
   {
@@ -12,8 +12,7 @@
   {
     "title": "КАК ВОССТАНОВИТЬ ПОРЯДОК ЗАГРУЗКИ?",
     "description": "Открываем Mod Organizer\nНажимаем на жёлтую стрелочку вверху СЛЕВА и выбираем \"Восстановить порядок\", потом повторяем то же самое с жёлтой стрелочкой вверху СПРАВА.",
-    "image": null,
-    "video": "https://raw.githubusercontent.com/newvegasextendededition/newvegasextendededition.github.io/refs/heads/main/assets/videos/restoreBackup.mp4"
+    "image": "https://raw.githubusercontent.com/newvegasextendededition/newvegasextendededition.github.io/refs/heads/main/assets/images/install/presetChange.png"
   },
   {
     "title": "МОИ МОДЫ ОТКЛЮЧАЮТСЯ, ЧТО ДЕЛАТЬ?",
