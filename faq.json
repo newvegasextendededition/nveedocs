@@ -20,6 +20,11 @@
     "image": null
   },
   {
+    "title": "ИГРА СЛИШКОМ БЫСТРАЯ/ВЫЛЕТАЕТ У СПУТНИКА ИЗ OWB/ГОРЫ БЛЭК, ЧТО ДЕЛАТЬ?",
+    "description": "Ограничьте FPS на 120, а лучше на 60. Например через [link=https://www.guru3d.com/download/rtss-rivatuner-statistics-server-download/]RTSS[link]",
+    "image": null
+  },
+  {
     "title": "ПРИ ВЫХОДЕ В ПУСТОШЬ ВСЕ СИНЕЕ, ЧТО ДЕЛАТЬ?",
     "description": "Отключайте Volumetric Fog в моде NVR (отключен по умолчанию) либо сам мод.",
     "image": null
