@@ -1,5 +1,33 @@
 [
 	{
+		"title": "04.11.25",
+		"description": [
+			"Включил лок FPS на 120 в конфиге DXVK.",
+			"Включил твик bNoRemoveGuessedWords.",
+			"Добавил Basic Retrievable Throwables.",
+			"Добавил Harvestable Flora Reset Fix.",
+			"Добавил aWRP - Service Rifle Wood Furniture.",
+			"Добавил Lighting Enhanced Normal Textures (LENT).",
+			"Добавил Vanilla Objects Parallaxed.",
+			"Добавил исправления NVAO от @svheg.",
+			"Заменил Mojave Raiders на Mojave Raiders Lite.",
+			"Изменил настройки Enhanced Movement: скорость бега, переключение спринта, влияние ловкости на бег и затраты ОД.",
+			"Изменил положение иконки режима стрельбы.",
+			"Исправил вылет на горе Блэк из-за капканов.",
+			"Исправил косую мушку у 45-мм ПП.",
+			"Исправил невозможность экипировать фракционную броню с геймпада/клавиатуры.",
+			"Отключил твик bIncludeHeavyWeapons.",
+			"Правки краткой сводки.",
+			"Сменил хоткей режима стрельбы с K на Q.",
+			"Удалил Better Head Bits, вылеты.",
+			"Удалил Hit - B42 Interact - Weapons, баги.",
+			"Удалил Retrievable Throwables, баги."
+		],
+		"files": {
+			"https://github.com/newvegasextendededition/nveedocs/raw/refs/heads/main/updates/04.11.25/update.7z": "5535710394424165633"
+		}
+	},
+	{
 		"title": "25.10.25",
 		"description": [
 			"Добавил Aim Collision Indicator в опц. моды.",
