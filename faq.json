@@ -16,7 +16,7 @@
   },
   {
     "title": "КАК ОГРАНИЧИТЬ FPS?",
-    "description": "Скачиваем и устанавливаем [link=https://www.guru3d.com/download/rtss-rivatuner-statistics-server-download/]RTSS[link]\nОткрываем его, нажимаешь зеленую кнопку \"Add\" снизу и добавляем FalloutNV.exe из папки куда установили сборку.\nНажимаем на него и пишем нужное значение (не выше 120!).\nНажимаем снизу синюю кнопку \"Setup\"\nВключаем пассивное ожидание и синхр. переднего фронта как указано на скриншоте.\nВключаем пункт \"Start with Windows\" сверху.",
+    "description": "Скачиваем и устанавливаем [link=https://www.guru3d.com/download/rtss-rivatuner-statistics-server-download/]RTSS[link]\nОткрываем его, нажимаешь зеленую кнопку \"Add\" снизу и добавляем FalloutNV.exe из папки куда установили сборку.\nНажимаем на пункт \"Framerate Limit\" и пишем нужное значение (не выше 120!).\nНажимаем снизу синюю кнопку \"Setup\".\nВключаем пассивное ожидание и синхр. переднего фронта как указано на скриншоте.\nВключаем пункт \"Start with Windows\" сверху и сворачиваем.",
     "image": "https://raw.githubusercontent.com/newvegasextendededition/newvegasextendededition.github.io/refs/heads/main/assets/images/help/fpsLimit.png"
   },
   {
