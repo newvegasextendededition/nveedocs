@@ -1,5 +1,19 @@
 [
 	{
+		"title": "07.11.25",
+		"description": [
+			"ТРЕБУЕТСЯ НОВАЯ ИГРА!",
+			"Исправил косую мушку автоматической винтовки из Dead Money.",
+			"Обновил Goodies.",
+			"Обновил Type 4 - Compatibility Edition.",
+			"Обновил YUP RUS - Base Game and All DLC.",
+			"Обновил YUPDate."
+		],
+		"files": {
+			"https://github.com/newvegasextendededition/nveedocs/raw/refs/heads/main/updates/07.11.25/update.7z": "4540371445092985692"
+		}
+	},
+	{
 		"title": "06.11.25",
 		"description": [
 			"Добавил Dialogue History.",
