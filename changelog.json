@@ -1,5 +1,35 @@
 [
 	{
+		"title": "06.11.25",
+		"description": [
+			"Добавил Dialogue History.",
+			"Добавил Modern Help Menu.",
+			"Добавил опциональным Bullet Drop.",
+			"Добавил опциональным TYPE4.",
+			"Добавил русский перевод меню твиков.",
+			"Изменил режим расчета стоимости быстрого перемещения по умолчанию на \"только по расстоянию\".",
+			"Исправил кривую точку прицела у оптики боевой винтовки.",
+			"Исправил перевод Goodies.",
+			"Исправил перевод Simple Night Vision.",
+			"Обновил Home and Safehouse Tweaks.",
+			"Обновил LOD Flicker Fix - NVSE.",
+			"Обновил MAC-TEN.",
+			"Обновил MCM Extender.",
+			"Обновил Modern Minimap.",
+			"Обновил Mojave Scenery Overhaul.",
+			"Обновил P6 - Power Fists (ESPLESS).",
+			"Обновил Sandstone Desert.",
+			"Обновил Stewie Tweaks.",
+			"Обновил ySI - Contextual Prompts.",
+			"Убрал лок FPS с DXVK, ощущался хуже чем через RTSS.",
+			"Удалил ненужные меши из ADAM Reborn.",
+			"Уменьшил тряску камеры (можно вернуть в настройках Enhanced Movement в MCM)."
+		],
+		"files": {
+			"https://github.com/newvegasextendededition/nveedocs/raw/refs/heads/main/updates/06.11.25/update.7z": "6486840547688029793"
+		}
+	},
+	{
 		"title": "04.11.25",
 		"description": [
 			"Включил лок FPS на 120 в конфиге DXVK.",
