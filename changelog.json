@@ -1,5 +1,16 @@
 [
 	{
+		"title": "29.11.25",
+		"description": [
+			"Добавил Reset Settings Prompt.",
+			"Доперевел MCM Extender.",
+			"Исправил невозможность смены цвета из меню настроек."
+		],
+		"files": {
+			"https://github.com/newvegasextendededition/nveedocs/raw/refs/heads/main/updates/29.11.25/update.7z": "8295658679733387149"
+		}
+	},
+	{
 		"title": "28.11.25.1",
 		"description": [
 			"Добавил возможность отключения Enhanced Creatures.",
