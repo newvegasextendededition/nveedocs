@@ -1,5 +1,16 @@
 [
 	{
+		"title": "01.12.25.1",
+		"description": [
+			"Исправил невозможность прохождения ОКО ЗА ОКО убийством всех легионеров.",
+			"Для исправления на сейве где уже убиты все введите в консоль vCCEyeforaneye.iDeadCount = 12",
+			"Или сбросьте рад. бочки на Коттонвуд-Коув"
+		],
+		"files": {
+			"https://github.com/newvegasextendededition/nveedocs/raw/refs/heads/main/updates/01.12.25.1/update.7z": "1319091314732339863"
+		}
+	},
+	{
 		"title": "01.12.25",
 		"description": [
 			"Добавил The HUD Editor.",
