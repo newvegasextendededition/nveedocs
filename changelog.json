@@ -1,5 +1,15 @@
 [
 	{
+		"title": "01.12.25",
+		"description": [
+			"Добавил The HUD Editor.",
+			"Исправил отображение выбранной версии игры в Steam."
+		],
+		"files": {
+			"https://github.com/newvegasextendededition/nveedocs/raw/refs/heads/main/updates/01.12.25/update.7z": "2093073018755020690"
+		}
+	},
+	{
 		"title": "29.11.25",
 		"description": [
 			"Добавил Reset Settings Prompt.",
