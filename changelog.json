@@ -1,5 +1,28 @@
 [
 	{
+		"title": "09.12.25",
+		"description": [
+			"Включил твик bDisableCharacterRespec для совместимости с Retroactive Intellent Implant.",
+			"Двинул маркер отдыха рейдеров у Ниптонского Пит-стопа за биллборд, иначе стоят на открытой местности.",
+			"Добавил Depth Resolve - NVSE.",
+			"Добавил Grenade Launcher animation fix - knvse.",
+			"Добавил Vanilla Plus AO.",
+			"Добавил Vanilla Plus Particles.",
+			"Доперевел Retroactive Intellent Implant.",
+			"Исправил краш связанный с Famine.",
+			"Обновил B42 Weapon Inertia.",
+			"Обновил Goodies.",
+			"Обновил Mojave Arsenal.",
+			"Обновил NVR.",
+			"Обновил xNVSE.",
+			"Отключил урезание лута в JSawyer, теперь для этого только Famine.",
+			"Уменьшил шанс удаления отмычек в Famine на 70%."
+		],
+		"files": {
+			"https://github.com/newvegasextendededition/nveedocs/raw/refs/heads/main/updates/09.12.25/update.7z": "13282248778587003625"
+		}
+	},
+	{
 		"title": "04.12.25",
 		"description": [
 			"Исправил проблему с агром легиона в Форте.",
