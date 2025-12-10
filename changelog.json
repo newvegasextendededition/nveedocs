@@ -2,10 +2,10 @@
 	{
 		"title": "10.12.25",
 		"description": [
-			"Обновил Companion Carry Weight Adder",
-			"Обновил JohnnyGuitar NVSE",
-			"Отключил по умолчанию Ambient Occlusion",
-			"Правки лаунчера/апдейтера"
+			"Обновил Companion Carry Weight Adder.",
+			"Обновил JohnnyGuitar NVSE.",
+			"Отключил по умолчанию Ambient Occlusion.",
+			"Правки лаунчера/апдейтера."
 		],
 		"files": {
 			"https://github.com/newvegasextendededition/nveedocs/raw/refs/heads/main/updates/10.12.25/update.7z": "7531234954092853043"
