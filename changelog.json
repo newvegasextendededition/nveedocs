@@ -1,5 +1,17 @@
 [
 	{
+		"title": "11.12.25",
+		"description": [
+			"Добавил Sneak Level Tweak, исправляет мгновенное обнаружение игрока высокоуровневыми противниками.",
+			"Добавил выбор погоды между Weathers Revised, DNW и ваниллой.",
+			"Добавил возможность отключения Karmic Balance.",
+			"Удалил передвижение маркера отдыха рейдеров у Пит-стопа, вызывало вылеты."
+		],
+		"files": {
+			"https://github.com/newvegasextendededition/nveedocs/raw/refs/heads/main/updates/11.12.25/update.7z": "10857117727737503892"
+		}
+	},
+	{
 		"title": "10.12.25",
 		"description": [
 			"Обновил Companion Carry Weight Adder.",
