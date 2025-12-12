@@ -1,5 +1,14 @@
 [
 	{
+		"title": "12.12.25",
+		"description": [
+			"Исправил возможность отключения Karmic Balance."
+		],
+		"files": {
+			"https://github.com/newvegasextendededition/nveedocs/raw/refs/heads/main/updates/12.12.25/update.7z": "4049103312356129803"
+		}
+	},
+	{
 		"title": "11.12.25",
 		"description": [
 			"Добавил Sneak Level Tweak, исправляет мгновенное обнаружение игрока высокоуровневыми противниками.",
