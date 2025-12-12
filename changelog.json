@@ -1,5 +1,14 @@
 [
 	{
+		"title": "12.12.25.1",
+		"description": [
+			"Исправил сообщение об ошибке B42 Inertia."
+		],
+		"files": {
+			"https://github.com/newvegasextendededition/nveedocs/raw/refs/heads/main/updates/12.12.25.1/update.7z": "17301711992004345073"
+		}
+	},
+	{
 		"title": "12.12.25",
 		"description": [
 			"Исправил возможность отключения Karmic Balance."
