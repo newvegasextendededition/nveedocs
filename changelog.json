@@ -1,5 +1,20 @@
 [
 	{
+		"title": "16.12.25",
+		"description": [
+			"Добавил автоматическое включение Flip Model на картах NVidia.",
+			"Обновил Balanced Discounts and Barter Fixes.",
+			"Обновил Companion Carry Weight Adder.",
+			"Обновил Depth of Field Fix - NVSE.",
+			"Обновил Primm Reputation Restored Revised.",
+			"Обновил Quick Trade ESPless.",
+			"Обновил Vanilla Plus AO." 
+		],
+		"files": {
+			"https://github.com/newvegasextendededition/nveedocs/raw/refs/heads/main/updates/16.12.25/update.7z": "11601152573250401594"
+		}
+	},
+	{
 		"title": "12.12.25.1",
 		"description": [
 			"Исправил сообщение об ошибке B42 Inertia."
