@@ -17,12 +17,12 @@
   {
     "title": "КАК ВОССТАНОВИТЬ ПОРЯДОК ЗАГРУЗКИ?",
     "description": "Открываем Mod Organizer\nНажимаем на жёлтую стрелочку вверху СЛЕВА и выбираем \"Восстановить порядок\", потом повторяем то же самое с жёлтой стрелочкой вверху СПРАВА.",
-    "image": "https://raw.githubusercontent.com/newvegasextendededition/newvegasextendededition.github.io/refs/heads/main/assets/images/install/presetChange.png"
+    "image": "https://raw.githubusercontent.com/newvegasextendededition/newvegasextendededition.github.io/refs/heads/gh-pages/assets/images/install/presetChange.png"
   },
   {
     "title": "КАК ОГРАНИЧИТЬ FPS?",
     "description": "Скачиваем и устанавливаем [link=https://www.guru3d.com/download/rtss-rivatuner-statistics-server-download/]RTSS[link]\nОткрываем его, нажимаешь зеленую кнопку \"Add\" снизу и добавляем FalloutNV.exe из папки куда установили сборку.\nНажимаем на пункт \"Framerate Limit\" и пишем нужное значение (не выше 120!).\nНажимаем снизу синюю кнопку \"Setup\".\nВключаем пассивное ожидание и синхр. переднего фронта как указано на скриншоте.\nВключаем пункт \"Start with Windows\" сверху и сворачиваем.",
-    "image": "https://raw.githubusercontent.com/newvegasextendededition/newvegasextendededition.github.io/refs/heads/main/assets/images/help/fpsLimit.png"
+    "image": "https://raw.githubusercontent.com/newvegasextendededition/newvegasextendededition.github.io/refs/heads/gh-pages/assets/images/help/fpsLimit.png"
   },
   {
     "title": "МОИ МОДЫ ОТКЛЮЧАЮТСЯ, ЧТО ДЕЛАТЬ?",
