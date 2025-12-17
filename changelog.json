@@ -1,8 +1,8 @@
 [
 	{
-		"title": "16.12.25",
+		"title": "17.12.25",
 		"description": [
-			"Добавил автоматическое включение Flip Model на картах NVidia.",
+			"Добавил возможность включение Flip Model на картах NVidia.",
 			"Обновил Balanced Discounts and Barter Fixes.",
 			"Обновил Companion Carry Weight Adder.",
 			"Обновил Depth of Field Fix - NVSE.",
@@ -11,7 +11,7 @@
 			"Обновил Vanilla Plus AO." 
 		],
 		"files": {
-			"https://github.com/newvegasextendededition/nveedocs/raw/refs/heads/main/updates/16.12.25/update.7z": "11601152573250401594"
+			"https://github.com/newvegasextendededition/nveedocs/raw/refs/heads/main/updates/17.12.25/update.7z": "1622520680598500614"
 		}
 	},
 	{
