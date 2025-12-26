@@ -1,15 +1,17 @@
 [
 	{
-		"title": "23.12.25",
+		"title": "26.12.25",
 		"description": [
 			"ЭКСПЕРИМЕНТАЛЬНЫЙ АПДЕЙТ ПО ОПТИМИЗАЦИИ! Возможны ошибки, вылеты. В случае которых единственный выход - переустановка.",
 			"Обновил Companion Carry Weight Adder.",
 			"Обновил Companions and Traders KEYWORDS.",
 			"Обновил Quick Trade ESPless.",
 			"Обновил WBND.",
+			"Обновил NVMIM.",
 			"Обновил Decent Muck Pools",
 			"Обновил xNVSE.",
 			"Исправил кривую мушку боевой винтовки.",
+			"Исправил слетание лока FPS при включенном flip model (теперь форсирован на 120).",
 			"Изменил текстуры боевой винтовки.",
 			"Пожал текстуру vquadr02a_n.dds",
 			"Исправил NPOT разрешение текстур LARP - Legion Armor Revamp Project.",
@@ -18,7 +20,7 @@
 			"Прогнал все меши через Universal Fixer из Sniff."
 		],
 		"files": {
-			"https://github.com/newvegasextendededition/nveedocs/raw/refs/heads/main/updates/23.12.25/update.7z": "7241386173343135412"
+			"https://github.com/newvegasextendededition/nveedocs/raw/refs/heads/main/updates/26.12.25/update.7z": "577868448266599548"
 		}
 	},
 	{
