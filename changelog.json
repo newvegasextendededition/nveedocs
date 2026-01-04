@@ -1,5 +1,18 @@
 [
 	{
+		"title": "05.01.26",
+		"description": [
+			"Добавил Collision Sphere Hider NVSE.",
+			"Добавил исправление тренча в Goodies.",
+			"Исправил краш с Famine.",
+			"Исправил неработоспособность Famine.",
+			"Обновил Crash Logger."
+		],
+		"files": {
+			"https://github.com/newvegasextendededition/nveedocs/raw/refs/heads/main/updates/05.01.26/update.7z": "4165936422901633798"
+		}
+	},
+	{
 		"title": "26.12.25",
 		"description": [
 			"ЭКСПЕРИМЕНТАЛЬНЫЙ АПДЕЙТ ПО ОПТИМИЗАЦИИ! Возможны ошибки, вылеты. В случае которых единственный выход - переустановка.",
