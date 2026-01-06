@@ -1,16 +1,17 @@
 [
 	{
-		"title": "05.01.26.1",
+		"title": "06.01.26",
 		"description": [
 			"Добавил Collision Sphere Hider NVSE.",
 			"Добавил исправление тренча в Goodies.",
 			"Исправил краш с Famine.",
 			"Исправил неработоспособность Famine.",
 			"Исправил краш при подходе к 188 торг. посту.",
+			"Обновил MAC-TEN",
 			"Обновил Crash Logger."
 		],
 		"files": {
-			"https://github.com/newvegasextendededition/nveedocs/raw/refs/heads/main/updates/05.01.26.1/update.7z": "10269646612205804164"
+			"https://github.com/newvegasextendededition/nveedocs/raw/refs/heads/main/updates/06.01.26/update.7z": "3293998270277345052"
 		}
 	},
 	{
