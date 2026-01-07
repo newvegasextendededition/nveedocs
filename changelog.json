@@ -1,6 +1,6 @@
 [
 	{
-		"title": "06.01.26",
+		"title": "07.01.26",
 		"description": [
 			"Добавил Collision Sphere Hider NVSE.",
 			"Добавил исправление тренча в Goodies.",
@@ -11,7 +11,7 @@
 			"Обновил Crash Logger."
 		],
 		"files": {
-			"https://github.com/newvegasextendededition/nveedocs/raw/refs/heads/main/updates/06.01.26/update.7z": "3293998270277345052"
+			"https://github.com/newvegasextendededition/nveedocs/raw/refs/heads/main/updates/07.01.26/update.7z": "14143701291998269196"
 		}
 	},
 	{
