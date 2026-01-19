@@ -1,5 +1,30 @@
 [
 	{
+		"title": "19.01.26.3",
+		"description": [
+			"Добавил опциональным New Vegas Redesigned 2 Scripted.",
+			"Добавил Character Expansions Revised Scripted.",
+			"Добавил Hand and DOT Crosshair for Clean Vanilla HUD.",
+			"Добавил Immersive Weapon Switch.",
+			"Добавил автоматическое определение версии игры в Steam.",
+			"Добавил автономный режим.",
+			"Добавил возможность переустановки библиотек в лаунчере.",
+			"Исправил баг с криво работающим фаст тревелом. Спасибо @Bergentruckung за репорт.",
+			"Исправил краш при покупке микроядерный гипераппарат Альфа в Новаке. Спасибо @Bergentruckung за репорт.",
+			"Исправил вылеты из-за CER Scripted. Спасибо за сейвы и тесты @dextermoser1, @canioves и другим."
+			"Исправил перевод Goodies.",
+			"Обновил Enhanced Creatures.",
+			"Обновил ShowOff.",
+			"Обновил Stewie Tweaks.",
+			"Правки лаунчера.",
+			"Слегка изменил цвет маркеров скрытности.",
+			"Удалил Simple Character Expansions."
+		],
+		"files": {
+			"https://github.com/newvegasextendededition/nveedocs/raw/refs/heads/main/updates/19.01.26.3/update.7z": "10562528907337914049"
+		}
+	},
+	{
 		"title": "07.01.26",
 		"description": [
 			"Добавил Collision Sphere Hider NVSE.",
