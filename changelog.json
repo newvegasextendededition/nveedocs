@@ -1,11 +1,11 @@
 [
 	{
-		"title": "19.01.26.4",
+		"title": "19.01.26.5",
 		"description": [
-			"Исправил опечатку в скрипте CER."
+			"Исправил оставшиеся вылеты из-за CER Scripted, спасибо @matveymack за тесты."
 		],
 		"files": {
-			"https://github.com/newvegasextendededition/nveedocs/raw/refs/heads/main/updates/19.01.26.4/update.7z": "17767419979642111935"
+			"https://github.com/newvegasextendededition/nveedocs/raw/refs/heads/main/updates/19.01.26.5/update.7z": "4865110438305566918"
 		}
 	},
 	{
