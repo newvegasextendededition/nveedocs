@@ -1,5 +1,14 @@
 [
 	{
+		"title": "19.01.26.4",
+		"description": [
+			"Исправил опечатку в скрипте CER."
+		],
+		"files": {
+			"https://github.com/newvegasextendededition/nveedocs/raw/refs/heads/main/updates/19.01.26.4/update.7z": "17767419979642111935"
+		}
+	},
+	{
 		"title": "19.01.26.3",
 		"description": [
 			"Добавил опциональным New Vegas Redesigned 2 Scripted.",
