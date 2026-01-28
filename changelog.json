@@ -1,5 +1,14 @@
 [
 	{
+		"title": "28.01.26",
+		"description": [
+			"Обновил MAC-TEN, исправляет невозможность открыть дверь в квесте \"ЭВРИКА!\"."
+		],
+		"files": {
+			"https://github.com/newvegasextendededition/nveedocs/raw/refs/heads/main/updates/28.01.26/update.7z": "6322636653607174270"
+		}
+	},
+	{
 		"title": "19.01.26.5",
 		"description": [
 			"Исправил оставшиеся вылеты из-за CER Scripted, спасибо @matveymack за тесты."
