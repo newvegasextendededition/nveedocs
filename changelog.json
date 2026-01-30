@@ -1,5 +1,16 @@
 [
 	{
+		"title": "30.01.26",
+		"description": [
+			"ОБЯЗАТЕЛЬНА НОВАЯ ИГРА!",
+			"Удалил Vanilla Script Micro-Optimizations, больше проблем чем пользы."
+		],
+		"ngRequired": true,
+		"files": {
+			"https://github.com/newvegasextendededition/nveedocs/raw/refs/heads/main/updates/30.01.26/update.7z": "5443804876938924460"
+		}
+	},
+	{
 		"title": "28.01.26",
 		"description": [
 			"Обновил MAC-TEN, исправляет невозможность открыть дверь в квесте \"ЭВРИКА!\"."
