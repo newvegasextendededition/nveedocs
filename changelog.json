@@ -1,5 +1,15 @@
 [
 	{
+		"title": "11.03.26",
+		"description": [
+			"Исправил кривую иконку рюкзаков.",
+			"Исправил неработоспособность CER Scripted и NVR2 на некоторых машинах."
+		],
+		"files": {
+			"https://github.com/newvegasextendededition/nveedocs/raw/refs/heads/main/updates/11.03.26/update.7z": "13235754774255167559"
+		}
+	},
+	{
 		"title": "30.01.26",
 		"description": [
 			"ОБЯЗАТЕЛЬНА НОВАЯ ИГРА!",
