@@ -1,12 +1,13 @@
 [
 	{
-		"title": "11.03.26",
+		"title": "11.03.26.1",
 		"description": [
 			"Исправил кривую иконку рюкзаков.",
+			"Обновил ShowOff NVSE",
 			"Исправил неработоспособность CER Scripted и NVR2 на некоторых машинах."
 		],
 		"files": {
-			"https://github.com/newvegasextendededition/nveedocs/raw/refs/heads/main/updates/11.03.26/update.7z": "13235754774255167559"
+			"https://github.com/newvegasextendededition/nveedocs/raw/refs/heads/main/updates/11.03.26.1/update.7z": "6371834244613183945"
 		}
 	},
 	{
