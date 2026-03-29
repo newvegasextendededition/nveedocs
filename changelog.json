@@ -1,5 +1,15 @@
 [
 	{
+		"title": "30.03.26",
+		"description": [
+			"Исправил отсутствие диалоги у вырезанного Бенни.",
+			"Обновил JohnnyGuitar (исправляет баг с маркерами на карте)."
+		],
+		"files": {
+			"https://github.com/newvegasextendededition/nveedocs/raw/refs/heads/main/updates/30.03.26/update.7z": "202969010179942882"
+		}
+	},
+	{
 		"title": "29.03.26.2",
 		"description": [
 			"Исправления лаунчера.",
