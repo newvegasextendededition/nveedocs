@@ -1,5 +1,15 @@
 [
 	{
+		"title": "29.03.26.2",
+		"description": [
+			"Исправления лаунчера.",
+			"Отключил трату ОД для спринта вне боя."
+		],
+		"files": {
+			"https://github.com/newvegasextendededition/nveedocs/raw/refs/heads/main/updates/29.03.26.2/update.7z": "2908355576233212716"
+		}
+	},
+	{
 		"title": "29.03.26.1",
 		"description": [
 			"Обновил xNVSE.",
