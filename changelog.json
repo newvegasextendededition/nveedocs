@@ -1,5 +1,47 @@
 [
 	{
+		"title": "29.03.26",
+		"description": [
+			"Включил bDifficultyDoesntAffectNPCToNPCDamage, скейлинг урона NPC друг по другу вне зависимости от сложности.",
+			"Добавил Burden to Bear Restored NVSE.",
+			"Добавил Clip Distance Setter (Interior Fog Void Fix) для NVR.",
+			"Добавил Enhanced Animations - 3rd Person Movement.",
+			"Добавил Fast VATS Cameras.",
+			"Залочил смену timescale.",
+			"Исправил каноебство касадоров.",
+			"Исправил ошибку определения корректной Steam версии у некоторых людей.",
+			"Исправил перевод MCM.",
+			"Исправления лаунчера и апдейтера." ,
+			"Обновил Advanced 3rd Person Camera.",
+			"Обновил Better Transitions - NVSE.",
+			"Обновил Cell Offset Generator - NVSE.",
+			"Обновил Companion Carry Weight Adder.",
+			"Обновил Crash Logger.",
+			"Обновил Enhanced Locomotion.",
+			"Обновил Enhanced Movement.",
+			"Обновил Exterior Emittance Fix - NVSE.",
+			"Обновил FNV Mod Limit Fix.",
+			"Обновил Famine - A Loot Rarity Mod.",
+			"Обновил Fast PipBoy.",
+			"Обновил Female Pipboy Fixed - Ultimate Edition.",
+			"Обновил Geck Extender.",
+			"Обновил ImmersiveWeaponSwitch.",
+			"Обновил JLM Grab Tweak.",
+			"Обновил JohnnyGuitarNVSE.",
+			"Обновил MCM Extender.",
+			"Обновил Mojave Arsenal.",
+			"Обновил NPCs Sprint kNVSE - ESPless.",
+			"Обновил Shader Loader - NVSE.",
+			"Обновил ShowOff.",
+			"Обновил TNW.",
+			"Удалил Westside Suburbs Uncut.",
+			"Уменьшил кол-во тумана в интерьерах с включенным NVR."
+		],
+		"files": {
+			"https://github.com/newvegasextendededition/nveedocs/raw/refs/heads/main/updates/29.03.26/update.7z": "14255727844111717880"
+		}
+	},
+	{
 		"title": "12.03.26",
 		"description": [
 			"Исправил кривую иконку рюкзаков.",
