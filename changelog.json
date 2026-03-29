@@ -1,5 +1,15 @@
 [
 	{
+		"title": "29.03.26.1",
+		"description": [
+			"Обновил xNVSE.",
+			"Отключил требование силы для спринта с оружием."
+		],
+		"files": {
+			"https://github.com/newvegasextendededition/nveedocs/raw/refs/heads/main/updates/29.03.26.1/update.7z": "17586705168014166056"
+		}
+	},
+	{
 		"title": "29.03.26",
 		"description": [
 			"Включил bDifficultyDoesntAffectNPCToNPCDamage, скейлинг урона NPC друг по другу вне зависимости от сложности.",
