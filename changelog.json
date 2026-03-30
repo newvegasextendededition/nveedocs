@@ -1,5 +1,14 @@
 [
 	{
+		"title": "31.03.26",
+		"description": [
+			"Исправил баг со скоростью компаньонов."
+		],
+		"files": {
+			"https://github.com/newvegasextendededition/nveedocs/raw/refs/heads/main/updates/31.03.26/update.7z": "11135208304086506240"
+		}
+	},
+	{
 		"title": "30.03.26",
 		"description": [
 			"Исправил отсутствие диалоги у вырезанного Бенни.",
