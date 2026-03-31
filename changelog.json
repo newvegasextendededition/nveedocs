@@ -1,5 +1,16 @@
 [
 	{
+		"title": "31.03.26.1",
+		"description": [
+			"Добавил Tribal Fixes.",
+			"Исправил перевод одежды скорбящих.",
+			"Исправил баг с текстурами дикарей в TYPE4."
+		],
+		"files": {
+			"https://github.com/newvegasextendededition/nveedocs/raw/refs/heads/main/updates/31.03.26.1/update.7z": "4119433294095133109"
+		}
+	},
+	{
 		"title": "31.03.26",
 		"description": [
 			"Исправил баг со скоростью компаньонов."
