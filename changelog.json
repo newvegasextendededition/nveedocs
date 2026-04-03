@@ -1,5 +1,14 @@
 [
 	{
+		"title": "03.04.26",
+		"description": [
+			"Исправил краш лаунчера."
+		],
+		"files": {
+			"https://github.com/newvegasextendededition/nveedocs/raw/refs/heads/main/updates/03.04.26/update.7z": "8466900009086841611"
+		}
+	},
+	{
 		"title": "01.04.26",
 		"description": [
 			"Доперевел TNW.",
