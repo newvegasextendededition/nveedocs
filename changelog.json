@@ -1,5 +1,16 @@
 [
 	{
+		"title": "01.04.26",
+		"description": [
+			"Доперевел TNW.",
+			"Твики лаунчера.",
+			"Отключил спринт компаньонов во избежании бага с их низкой скоростью."
+		],
+		"files": {
+			"https://github.com/newvegasextendededition/nveedocs/raw/refs/heads/main/updates/01.04.26/update.7z": "15199970676220905508"
+		}
+	},
+	{
 		"title": "31.03.26.1",
 		"description": [
 			"Добавил Tribal Fixes.",
