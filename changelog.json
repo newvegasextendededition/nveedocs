@@ -1,5 +1,16 @@
 [
 	{
+		"title": "07.04.26",
+		"description": [
+			"Добавил Dead Money Missing Collectibles Fix.",
+			"Добавил возможность отключения Dusty Distance через лаунчер.",
+			"Обновил Stewie Tweaks."
+		],
+		"files": {
+			"https://github.com/newvegasextendededition/nveedocs/raw/refs/heads/main/updates/07.04.26/update.7z": "41074946792574312"
+		}
+	},
+	{
 		"title": "03.04.26",
 		"description": [
 			"Исправил краш лаунчера."
