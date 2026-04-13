@@ -1,5 +1,14 @@
 [
 	{
+		"title": "14.04.26",
+		"description": [
+			"Добавил возможность настройки менеджера сохранений в меню твиков."
+		],
+		"files": {
+			"https://github.com/newvegasextendededition/nveedocs/raw/refs/heads/main/updates/14.04.26/update.7z": "1506013289868560769"
+		}
+	},
+	{
 		"title": "11.04.26",
 		"description": [
 			"Исправил баг с FOV после окончания игры."
