@@ -1,5 +1,15 @@
 [
   {
+    "title": "07.06.26",
+    "description": [
+      "Исправил перевод Goodies.",
+      "Исправил метку на боеголовку Рыка."
+    ],
+    "files": {
+      "https://github.com/newvegasextendededition/nveedocs/raw/refs/heads/main/updates/07.06.26/update.7z": "5921993885119909599"
+    }
+  },
+  {
     "title": "29.05.26",
     "description": [
       "Обновил Stewie Tweaks.",
