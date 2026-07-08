@@ -1,5 +1,15 @@
 [
   {
+    "title": "08.07.26",
+    "description": [
+      "Обновил Stewie Tweaks.",
+      "Улучшил производительность лаунчера."
+    ],
+    "files": {
+      "https://github.com/newvegasextendededition/nveedocs/raw/refs/heads/main/updates/08.07.26/update.7z": "14437997604626057977"
+    }
+  },
+  {
     "title": "07.06.26.1",
     "description": [
       "Исправил перевод Goodies.",
@@ -31,9 +41,7 @@
   },
   {
     "title": "11.04.26",
-    "description": [
-      "Исправил баг с FOV после окончания игры."
-    ],
+    "description": ["Исправил баг с FOV после окончания игры."],
     "files": {
       "https://github.com/newvegasextendededition/nveedocs/raw/refs/heads/main/updates/11.04.26/update.7z": "11495335903277773705"
     }
@@ -51,9 +59,7 @@
   },
   {
     "title": "03.04.26",
-    "description": [
-      "Исправил краш лаунчера."
-    ],
+    "description": ["Исправил краш лаунчера."],
     "files": {
       "https://github.com/newvegasextendededition/nveedocs/raw/refs/heads/main/updates/03.04.26/update.7z": "8466900009086841611"
     }
@@ -82,9 +88,7 @@
   },
   {
     "title": "31.03.26",
-    "description": [
-      "Исправил баг со скоростью компаньонов."
-    ],
+    "description": ["Исправил баг со скоростью компаньонов."],
     "files": {
       "https://github.com/newvegasextendededition/nveedocs/raw/refs/heads/main/updates/31.03.26/update.7z": "11135208304086506240"
     }
@@ -282,18 +286,14 @@
   },
   {
     "title": "12.12.25.1",
-    "description": [
-      "Исправил сообщение об ошибке B42 Inertia."
-    ],
+    "description": ["Исправил сообщение об ошибке B42 Inertia."],
     "files": {
       "https://github.com/newvegasextendededition/nveedocs/raw/refs/heads/main/updates/12.12.25.1/update.7z": "17301711992004345073"
     }
   },
   {
     "title": "12.12.25",
-    "description": [
-      "Исправил возможность отключения Karmic Balance."
-    ],
+    "description": ["Исправил возможность отключения Karmic Balance."],
     "files": {
       "https://github.com/newvegasextendededition/nveedocs/raw/refs/heads/main/updates/12.12.25/update.7z": "4049103312356129803"
     }
@@ -717,9 +717,7 @@
   },
   {
     "title": "21.08.25.1",
-    "description": [
-      "Мелкие правки лаунчера/апдейтера."
-    ],
+    "description": ["Мелкие правки лаунчера/апдейтера."],
     "files": {
       "https://github.com/newvegasextendededition/nveedocs/raw/refs/heads/main/updates/21.08.25.1/21.08.25.1.7z": "10409518925514783618"
     }
@@ -1677,8 +1675,6 @@
   },
   {
     "title": "20.10.20",
-    "description": [
-      "Изначальный релиз."
-    ]
+    "description": ["Изначальный релиз."]
   }
 ]
